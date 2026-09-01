@@ -1,14 +1,9 @@
 ![Profile Picture](pfp.jpg)
-![Profile Picture](pfp.jpg)
 
 # Muhammad Maaz
-
 ## Education
-
 **BS Computer Science**
-
 *National University of Computer and Emerging Sciences*
-
 ## Skills
 
 - C Programming
