@@ -3,14 +3,14 @@
 ## Education
 **BS Computer Science**
 *National University Of Computer And Emerging Science*
-## Skills
+### Skills
 - C Programming
 - Git & GitHub
 - Microsoft Office
-### Projects
+#### Projects
 - Programming Fundamentals Lab
 - GitHub Resume
-## Hobbies & Extracurriculars
+##### Hobbies & Extracurriculars
 1. Gaming
 - [x] Complete a gaming tournament
 - [ ] Participate in an online gaming competition
