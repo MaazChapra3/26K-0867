@@ -1,4 +1,3 @@
-<div align="center">
 ![Profile Picture](pfp.jpg)
 # Muhammad Maaz
 ## Education
@@ -12,4 +11,3 @@
 - Programming Fundamentals Lab
 - GitHub Resume
 
-</div>
